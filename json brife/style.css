@@ -1,0 +1,54 @@
+body{
+    overflow: hidden;
+}
+.nmrOne{
+    width: 20vmin;
+    height: 5vmin;
+    position: absolute;
+    left:90vmin;
+    top:60vmin;
+}
+.left {
+    margin-left:25vmin;
+}
+.img{
+    width: 30vmin;
+    height: 45vmin;
+    position:relative;
+}
+.submit{
+    position: absolute;
+    left:90vmin;
+    top:70vmin;
+    width: 46vmin;
+    height: 5vmin;
+}
+p{
+    position: absolute;
+    left:112vmin;
+    top:75vmin;
+}
+h2{
+    position: absolute;
+    left:100vmin;
+    top:50vmin;
+    color: rgb(75, 203, 203);
+}
+.Two{
+    background: url(./images/children.png) -10vmin -8vmin;
+    position:absolute;
+    left:50vmin;
+    top:30vmin;
+}
+.Tree{
+    background: url(./images/children.png) -40vmin -7vmin;
+    position:absolute;
+    left: 98vmin;
+    top:-0.5vmin;
+}
+.Foor{
+    background: url(./images/children.png) 39vmin -7vmin;
+    position:absolute;
+    left:145vmin;
+    top:30vmin;
+}
